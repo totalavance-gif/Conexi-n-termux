@@ -1,0 +1,15 @@
+# Gradle / Android
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+*.jks
+# Python
+__pycache__/
+server/runs/
+server/*.log
+server/__pycache__/
+# Sistema
+.DS_Store
